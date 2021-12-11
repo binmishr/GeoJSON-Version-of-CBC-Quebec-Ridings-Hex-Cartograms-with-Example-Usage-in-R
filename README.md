@@ -1,0 +1,1 @@
+# GeoJSON-Version-of-CBC-Quebec-Ridings-Hex-Cartograms-with-Example-Usage-in-R
